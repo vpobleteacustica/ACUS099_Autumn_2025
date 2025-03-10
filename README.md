@@ -9,11 +9,13 @@
 Procesamiento digital de señales tiene como principal propósito que los estudiantes apliquen conocimientos en el área de procesamiento y análisis de señales y fundamenten con conceptos el procesamiento de señales en el contextos de trabajo interdisciplinario.
 
 * **Semestre:**
-  + Otoño 2024.
+  + Otoño 2025.
 * **Requisitos:**
   + Física: ondas y electromagnetismo (BAIN085-14).
 * **Docente responsable:**
   + Dr. Víctor Poblete Ramírez, vpoblete@uach.cl
+* **Docente colaborador:**
+  + MSc. Felipe Figueroa, felipe.figueroa01@uach.cl
 * **Ayudantes:**
   + Esteban Vargas Carrera, esteban.vargas01@alumnos.uach.cl
 
@@ -51,22 +53,22 @@ Procesamiento digital de señales tiene como principal propósito que los estudi
 ### Proyectos:
 
 + **Pueden ser resueltos en grupos de máximo dos estudiantes.**
-+ **(P1) Suma de Convolución (33%).** Mayo de 2024. Construir un código en Python que muestre una animación, paso paso, del proceso de suma de convolución entre dos secuencias. Debe mostrar gráficamente tres secuencias: las dos secuencias a convolucionar y la tercera es la secuencia resultante convolucionada. Se aplica lenguaje matemático y lenguaje de programación. El código tiene que estar bien organizado y con comentarios. Debe funcionar para cualquier señal acústica que se ingrese.
++ **(P1) Suma de Convolución (33%).** Mayo de 2025. Construir un código en Python que muestre una animación, paso paso, del proceso de suma de convolución entre dos secuencias. Debe mostrar gráficamente tres secuencias: las dos secuencias a convolucionar y la tercera es la secuencia resultante convolucionada. Se aplica lenguaje matemático y lenguaje de programación. El código tiene que estar bien organizado y con comentarios. Debe funcionar para cualquier señal acústica que se ingrese.
   + Entrega: A más tardar, el martes XX de Mayo, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso.
-+ **(P2) Segmentar una señal acústica en tiempos cortos y construir espectrograma (33%).** Junio 2024. Construir un código en Python que genere una matriz la cual contenga una señal segmentada en tiempo corto. A cada segmento, aplicar una ventana, por ejemplo, Hamming, y calcular la Transformada de Fourier. Debe representar además, la magnitud cuadrática de cada segmento a lo largo del tiempo (espectrograma). Se aplica lenguaje matemático y lenguaje de programación.
++ **(P2) Segmentar una señal acústica en tiempos cortos y construir espectrograma (33%).** Junio 2025. Construir un código en Python que genere una matriz la cual contenga una señal segmentada en tiempo corto. A cada segmento, aplicar una ventana, por ejemplo, Hamming, y calcular la Transformada de Fourier. Debe representar además, la magnitud cuadrática de cada segmento a lo largo del tiempo (espectrograma). Se aplica lenguaje matemático y lenguaje de programación.
   + Entrega: A más tardar, el martes XX de Junio, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso.
-+ **(P3) Representaciones de señales acústica (33%).** Julio 2024. Construir un código en Python que permita hacer representaciones de una señal acústica sin distorsión y degradada por ruido o vibración. Analizar las representaciones en tiempo y frecuencia, y usar Transformada de Fourier, filtros, espectrogramas, e histogramas. Se aplica lenguaje matemático y lenguaje de programación.
++ **(P3) Representaciones de señales acústica (33%).** Julio 2025. Construir un código en Python que permita hacer representaciones de una señal acústica sin distorsión y degradada por ruido o vibración. Analizar las representaciones en tiempo y frecuencia, y usar Transformada de Fourier, filtros, espectrogramas, e histogramas. Se aplica lenguaje matemático y lenguaje de programación.
   + Entrega: A más tardar, el martes XX de Julio, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso.
 
 ### Evaluaciones:
 
-+ **Pimera evaluación (EV1) de procedimiento teórico-práctico (10%):** Lunes XX de Mayo de 2024.
++ **Pimera evaluación (EV1) de procedimiento teórico-práctico (10%):** Lunes XX de Mayo de 2025.
   Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación.
-+ **Segunda evaluación (EV2) de procedimiento teórico-práctico (10%):** Lunes XX de Mayo de 2024.
++ **Segunda evaluación (EV2) de procedimiento teórico-práctico (10%):** Lunes XX de Mayo de 2025.
   Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación.
-+ **Tercera evaluación (EV3) de procedimiento teórico-práctico (10%):** Lunes XX de Junio de 2024.
++ **Tercera evaluación (EV3) de procedimiento teórico-práctico (10%):** Lunes XX de Junio de 2025.
   Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación.
-+ **Cuarta evaluación (EV4) de procedimiento teórico-práctico (10%):** Lunes XX de Julio de 2024.
++ **Cuarta evaluación (EV4) de procedimiento teórico-práctico (10%):** Lunes XX de Julio de 2025.
   Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación.
 
 ### Evaluaciones y nota final:
