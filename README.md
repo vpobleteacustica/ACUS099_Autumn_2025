@@ -26,7 +26,8 @@ Procesamiento digital de señales tiene como principal propósito que los estudi
   + 1.1 Secuencias (señales) básicas en tiempo discreto: Impulso unitario, escalón unitario, exponencial real, exponencial compleja, senoidal, cosenoial, periódicas y aperiódicas, combinación de secuencias.
   + 1.2 Sistemas discretos en el tiempo. Sistemas lineales y no lineales. Sistemas invariantes en el tiempo. Sistemas lineales e invariantes en el tiempo.
   + 1.3 Respuesta al impulso. Suma de convolución.
-  + 1.4 Respuesta en frecuencia de sistemas lineales e invariantes en el tiempo.
+  + 1.4 Convolución en Acústica (3 semanas): Clases prácticas guiadas de convolución y respuesta impulso (Felipe Figueroa/Víctor Poblete)
+  + 1.5 Respuesta en frecuencia de sistemas lineales e invariantes en el tiempo.
 * **Unidad 2:** Secuencias y sistemas en dominio de la frecuencia.
 
   + 2.1 Transformada de Fourier aplicada a secuencias. Respuesta impulso expresada como la transformada inversa de Fourier de la función de respuesta en frecuencia. Uso de ventanas.
