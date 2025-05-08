@@ -17,7 +17,8 @@ Procesamiento digital de señales tiene como principal propósito que los estudi
 * **Docente colaborador:**
   + MSc. Felipe Figueroa, felipe.figueroa01@uach.cl
 * **Ayudantes:**
-  + Esteban Vargas Carrera, esteban.vargas01@alumnos.uach.cl
+  + Valentina Valderas S., valentina.valderas@alumnos.uach.cl
+  + Esteban Vargas C., esteban.vargas01@alumnos.uach.cl
 
 ### Contenidos
 
